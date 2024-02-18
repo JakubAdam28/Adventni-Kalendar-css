@@ -1,0 +1,17 @@
+body{
+    background-image: linear-gradient(to right, #c6c6c6, #d1d1d1, #dbdbdb, #e6e6e6, #f1f1f1, #f1f1f1, #f1f1f1, #f1f1f1, #e6e6e6, #dbdbdb, #d1d1d1, #c6c6c6);
+}
+
+h1{
+color: blue;
+text-decoration: underline;
+}
+a{
+text-decoration: none;
+color: blue;
+width: 320px;
+height: 50px;
+padding: 10px;
+border: 5px solid blue;
+margin: 0;
+}

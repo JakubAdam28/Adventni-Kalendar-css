@@ -1,0 +1,15 @@
+body{background-image: linear-gradient(to right, #ff0000, #ff352b, #fd5047, #f86660, #f17a77, #f17a77, #f17a77, #f17a77, #f86660, #fd5047, #ff352b, #ff0000);
+}
+
+h1{
+    color: white;
+    text-decoration: underline;
+}
+
+footer{
+color: white;
+text-align: center;
+text-decoration: underline;
+}
+
+
